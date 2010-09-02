@@ -1,0 +1,10 @@
+You need a simple posting system for Twitter and Facebook?
+You want, once the user is authorized, posting in background?
+
+Just checkout GKPostKit.
+
+- Simple open the project, copy the whole GKPostKit folder to your project.
+- Fill out GKPostKitGlobals.h
+- Checkout PostKitViewController.m to see how it works.
+
+Have fun ;)
