@@ -109,6 +109,7 @@
 
 - (void)dealloc {
 	// release your members
+	SMSaveRelease(mAccessTokenRequest);
 	[super dealloc];
 }
 

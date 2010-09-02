@@ -40,7 +40,18 @@
 #pragma mark Setter/Getter
 
 @synthesize delegate = mDelegate;
-@synthesize tintColor = mTintColor;
+
+- (void)setTintColor:(UIColor *)color{
+	SMSaveRelease(mTintColor)
+	mTintColor = [color retain];
+	
+	[mToolbar removeFromSuperview];
+	[self initToolbar];
+}
+
+- (UIColor *)tintColor{
+	return mToolbar.tintColor;
+}
 
 - (GKPostItem *)item{
 	return mItem;
@@ -59,14 +70,18 @@
 #pragma mark Private Methods
 
 - (void)initToolbar{
-	UIToolbar *toolbar = [[UIToolbar alloc] initWithFrame:CGRectMake(0, 0, 320, 44)];
+	
+	SMSaveRelease(mToolbar);
+
+	mToolbar = [[UIToolbar alloc] initWithFrame:CGRectMake(0, 0, 320, 44)];
+	
 	if(mTintColor)
-		toolbar.tintColor = mTintColor;
+		mToolbar.tintColor = mTintColor;
 	UIBarButtonItem *flex = [[[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemFlexibleSpace target:nil action:nil] autorelease];
 	UIBarButtonItem *btn = [[[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemCancel target:self action:@selector(closeView)] autorelease];
-	toolbar.items = [NSArray arrayWithObjects:flex, btn,  nil];
+	mToolbar.items = [NSArray arrayWithObjects:flex, btn,  nil];
 	
-	[self addSubview:toolbar];
+	[self addSubview:mToolbar];
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -156,6 +171,7 @@
 - (void)dealloc {
 	// release your members
 	mDelegate = nil;
+	SMSaveRelease(mToolbar);
 	SMSaveRelease(mTintColor);
 	SMSaveRelease(mItem);
 	SMSaveRelease(mWebView);

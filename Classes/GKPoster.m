@@ -65,7 +65,8 @@
 #pragma mark -
 #pragma mark Setter/Getter
 
-@synthesize delegate = mDelegate, authDialogTintColor = mTintColor;
+@synthesize delegate = mDelegate;
+@synthesize authDialogTintColor = mTintColor;
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #pragma mark -
@@ -80,6 +81,7 @@
 	if(mTwitterItem.accessToken == nil){
 		GKTwitterAuthDialog *dialog = [[GKTwitterAuthDialog alloc] init];
 		dialog.item = mTwitterItem;
+		dialog.tintColor = mTintColor;
 		dialog.delegate = self;
 		[dialog show];
 		SMSaveRelease(dialog);
@@ -92,6 +94,7 @@
 	if(mFacebookItem.accessToken == nil){
 		GKAuthDialog *dialog = [[GKFacebookAuthDialog alloc] init];
 		dialog.item = mFacebookItem;
+		dialog.tintColor = mTintColor;
 		dialog.delegate = self;
 		[dialog show];
 		SMSaveRelease(dialog);
@@ -264,6 +267,10 @@
 
 - (void)dealloc {
 	// release your members
+	SMSaveRelease(mFacebookItem);
+	SMSaveRelease(mTwitterItem);
+	SMSaveRelease(mPostRequest);
+	SMSaveRelease(mTintColor);
 	[super dealloc];
 }
 

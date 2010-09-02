@@ -36,7 +36,7 @@
 }
 
 - (IBAction)postFacebook{
-	
+	[[GKPoster sharedInstance] setAuthDialogTintColor:[UIColor redColor]];
 	NSMutableDictionary *dict = [[NSMutableDictionary alloc] init];
 	[dict setObject:@"Testmessage from GKPostKit" forKey:@"message"];
 	[dict setObject:@"http://github.com/gekitz/GKPostKit" forKey:@"link"];

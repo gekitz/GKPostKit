@@ -38,10 +38,10 @@
 	
 	UIWebView *mWebView;
 	UIActivityIndicatorView *mIndicatorView;
+	UIToolbar *mToolbar;
+	UIColor *mTintColor;
 	
 	id<GKAuthDialogDelegate> mDelegate;
-	
-	UIColor *mTintColor;
 }
 
 @property (nonatomic, retain) UIColor *tintColor;

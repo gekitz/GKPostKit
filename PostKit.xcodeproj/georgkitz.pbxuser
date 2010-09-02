@@ -29,9 +29,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1101, 1183}}";
-			sepNavSelRange = "{1574, 0}";
-			sepNavVisRange = "{82, 2482}";
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 1170}}";
+			sepNavSelRange = "{2356, 0}";
+			sepNavVisRange = "{82, 2548}";
 			sepNavWindowFrame = "{{38, 390}, {1160, 1002}}";
 		};
 	};
@@ -419,6 +419,95 @@
 			C14723351230020200679272 /* PBXTextBookmark */ = C14723351230020200679272 /* PBXTextBookmark */;
 			C14723361230020200679272 /* PBXTextBookmark */ = C14723361230020200679272 /* PBXTextBookmark */;
 			C14723371230020200679272 /* PBXTextBookmark */ = C14723371230020200679272 /* PBXTextBookmark */;
+			C147233B123003E100679272 /* PBXTextBookmark */ = C147233B123003E100679272 /* PBXTextBookmark */;
+			C147233C123003E100679272 /* PBXTextBookmark */ = C147233C123003E100679272 /* PBXTextBookmark */;
+			C147233D123003E100679272 /* PBXTextBookmark */ = C147233D123003E100679272 /* PBXTextBookmark */;
+			C147233E123003E100679272 /* PBXTextBookmark */ = C147233E123003E100679272 /* PBXTextBookmark */;
+			C147233F123003E100679272 /* PBXTextBookmark */ = C147233F123003E100679272 /* PBXTextBookmark */;
+			C1472340123003E100679272 /* PBXTextBookmark */ = C1472340123003E100679272 /* PBXTextBookmark */;
+			C14723431230040F00679272 /* PBXTextBookmark */ = C14723431230040F00679272 /* PBXTextBookmark */;
+			C14723441230040F00679272 /* PBXTextBookmark */ = C14723441230040F00679272 /* PBXTextBookmark */;
+			C14723451230040F00679272 /* PBXTextBookmark */ = C14723451230040F00679272 /* PBXTextBookmark */;
+			C14723461230040F00679272 /* PBXTextBookmark */ = C14723461230040F00679272 /* PBXTextBookmark */;
+			C14723521230042700679272 /* PBXTextBookmark */ = C14723521230042700679272 /* PBXTextBookmark */;
+			C14723551230042700679272 /* PBXTextBookmark */ = C14723551230042700679272 /* PBXTextBookmark */;
+			C14723561230042700679272 /* PBXTextBookmark */ = C14723561230042700679272 /* PBXTextBookmark */;
+			C14723571230042700679272 /* PBXTextBookmark */ = C14723571230042700679272 /* PBXTextBookmark */;
+			C14723581230042700679272 /* PBXTextBookmark */ = C14723581230042700679272 /* PBXTextBookmark */;
+			C14723591230042700679272 /* PBXTextBookmark */ = C14723591230042700679272 /* PBXTextBookmark */;
+			C147235A1230042700679272 /* PBXTextBookmark */ = C147235A1230042700679272 /* PBXTextBookmark */;
+			C147235E1230042E00679272 /* PBXTextBookmark */ = C147235E1230042E00679272 /* PBXTextBookmark */;
+			C147235F1230042E00679272 /* PBXTextBookmark */ = C147235F1230042E00679272 /* PBXTextBookmark */;
+			C14723601230042E00679272 /* PBXTextBookmark */ = C14723601230042E00679272 /* PBXTextBookmark */;
+			C14723611230042E00679272 /* PBXTextBookmark */ = C14723611230042E00679272 /* PBXTextBookmark */;
+			C14723621230042E00679272 /* PBXTextBookmark */ = C14723621230042E00679272 /* PBXTextBookmark */;
+			C14723631230042E00679272 /* PBXTextBookmark */ = C14723631230042E00679272 /* PBXTextBookmark */;
+			C14723641230044F00679272 /* PBXTextBookmark */ = C14723641230044F00679272 /* PBXTextBookmark */;
+			C14723651230044F00679272 /* PBXTextBookmark */ = C14723651230044F00679272 /* PBXTextBookmark */;
+			C14723661230044F00679272 /* PBXTextBookmark */ = C14723661230044F00679272 /* PBXTextBookmark */;
+			C14723671230044F00679272 /* PBXTextBookmark */ = C14723671230044F00679272 /* PBXTextBookmark */;
+			C14723681230044F00679272 /* PBXTextBookmark */ = C14723681230044F00679272 /* PBXTextBookmark */;
+			C14723691230044F00679272 /* PBXTextBookmark */ = C14723691230044F00679272 /* PBXTextBookmark */;
+			C147236E1230046B00679272 /* PBXTextBookmark */ = C147236E1230046B00679272 /* PBXTextBookmark */;
+			C147236F1230046B00679272 /* PBXTextBookmark */ = C147236F1230046B00679272 /* PBXTextBookmark */;
+			C14723701230046B00679272 /* PBXTextBookmark */ = C14723701230046B00679272 /* PBXTextBookmark */;
+			C14723711230046B00679272 /* PBXTextBookmark */ = C14723711230046B00679272 /* PBXTextBookmark */;
+			C14723721230046B00679272 /* PBXTextBookmark */ = C14723721230046B00679272 /* PBXTextBookmark */;
+			C14723731230046B00679272 /* PBXTextBookmark */ = C14723731230046B00679272 /* PBXTextBookmark */;
+			C1472379123004AA00679272 /* PBXTextBookmark */ = C1472379123004AA00679272 /* PBXTextBookmark */;
+			C147237A123004AA00679272 /* PBXTextBookmark */ = C147237A123004AA00679272 /* PBXTextBookmark */;
+			C147237B123004AA00679272 /* PBXTextBookmark */ = C147237B123004AA00679272 /* PBXTextBookmark */;
+			C147237C123004AA00679272 /* PBXTextBookmark */ = C147237C123004AA00679272 /* PBXTextBookmark */;
+			C147237D123004AA00679272 /* PBXTextBookmark */ = C147237D123004AA00679272 /* PBXTextBookmark */;
+			C147237E123004AA00679272 /* PBXTextBookmark */ = C147237E123004AA00679272 /* PBXTextBookmark */;
+			C147237F123004AA00679272 /* PBXTextBookmark */ = C147237F123004AA00679272 /* PBXTextBookmark */;
+			C1472383123004CF00679272 /* PBXTextBookmark */ = C1472383123004CF00679272 /* PBXTextBookmark */;
+			C1472384123004CF00679272 /* PBXTextBookmark */ = C1472384123004CF00679272 /* PBXTextBookmark */;
+			C1472385123004CF00679272 /* PBXTextBookmark */ = C1472385123004CF00679272 /* PBXTextBookmark */;
+			C1472386123004CF00679272 /* PBXTextBookmark */ = C1472386123004CF00679272 /* PBXTextBookmark */;
+			C1472387123004CF00679272 /* PBXTextBookmark */ = C1472387123004CF00679272 /* PBXTextBookmark */;
+			C147238B123004DB00679272 /* PBXTextBookmark */ = C147238B123004DB00679272 /* PBXTextBookmark */;
+			C147238C123004DB00679272 /* PBXTextBookmark */ = C147238C123004DB00679272 /* PBXTextBookmark */;
+			C147238D123004DB00679272 /* PBXTextBookmark */ = C147238D123004DB00679272 /* PBXTextBookmark */;
+			C147238E123004DB00679272 /* PBXTextBookmark */ = C147238E123004DB00679272 /* PBXTextBookmark */;
+			C147238F123004DB00679272 /* PBXTextBookmark */ = C147238F123004DB00679272 /* PBXTextBookmark */;
+			C1472390123004DB00679272 /* PBXTextBookmark */ = C1472390123004DB00679272 /* PBXTextBookmark */;
+			C1472393123004FF00679272 /* PBXTextBookmark */ = C1472393123004FF00679272 /* PBXTextBookmark */;
+			C1472394123004FF00679272 /* PBXTextBookmark */ = C1472394123004FF00679272 /* PBXTextBookmark */;
+			C1472397123004FF00679272 /* PBXTextBookmark */ = C1472397123004FF00679272 /* PBXTextBookmark */;
+			C1472398123004FF00679272 /* PBXTextBookmark */ = C1472398123004FF00679272 /* PBXTextBookmark */;
+			C147239B123004FF00679272 /* PBXTextBookmark */ = C147239B123004FF00679272 /* PBXTextBookmark */;
+			C147239C123004FF00679272 /* PBXTextBookmark */ = C147239C123004FF00679272 /* PBXTextBookmark */;
+			C147239D123004FF00679272 /* PBXTextBookmark */ = C147239D123004FF00679272 /* PBXTextBookmark */;
+			C147239E123004FF00679272 /* PBXTextBookmark */ = C147239E123004FF00679272 /* PBXTextBookmark */;
+			C147239F123004FF00679272 /* PBXTextBookmark */ = C147239F123004FF00679272 /* PBXTextBookmark */;
+			C14723A0123004FF00679272 /* PBXTextBookmark */ = C14723A0123004FF00679272 /* PBXTextBookmark */;
+			C14723A31230050800679272 /* PBXTextBookmark */ = C14723A31230050800679272 /* PBXTextBookmark */;
+			C14723A41230050800679272 /* PBXTextBookmark */ = C14723A41230050800679272 /* PBXTextBookmark */;
+			C14723A51230050800679272 /* PBXTextBookmark */ = C14723A51230050800679272 /* PBXTextBookmark */;
+			C14723A61230050800679272 /* PBXTextBookmark */ = C14723A61230050800679272 /* PBXTextBookmark */;
+			C14723A71230050800679272 /* PBXTextBookmark */ = C14723A71230050800679272 /* PBXTextBookmark */;
+			C14723A81230050800679272 /* PBXTextBookmark */ = C14723A81230050800679272 /* PBXTextBookmark */;
+			C14723A91230050800679272 /* PBXTextBookmark */ = C14723A91230050800679272 /* PBXTextBookmark */;
+			C14723B11230057D00679272 /* PBXTextBookmark */ = C14723B11230057D00679272 /* PBXTextBookmark */;
+			C14723B21230057D00679272 /* PBXTextBookmark */ = C14723B21230057D00679272 /* PBXTextBookmark */;
+			C14723B31230057D00679272 /* PBXTextBookmark */ = C14723B31230057D00679272 /* PBXTextBookmark */;
+			C14723B41230057D00679272 /* PBXTextBookmark */ = C14723B41230057D00679272 /* PBXTextBookmark */;
+			C14723B51230057D00679272 /* PBXTextBookmark */ = C14723B51230057D00679272 /* PBXTextBookmark */;
+			C14723B61230057D00679272 /* PBXTextBookmark */ = C14723B61230057D00679272 /* PBXTextBookmark */;
+			C14723B71230057D00679272 /* PBXTextBookmark */ = C14723B71230057D00679272 /* PBXTextBookmark */;
+			C14723B81230057D00679272 /* PBXTextBookmark */ = C14723B81230057D00679272 /* PBXTextBookmark */;
+			C14723B91230057D00679272 /* PBXTextBookmark */ = C14723B91230057D00679272 /* PBXTextBookmark */;
+			C14723C31230062600679272 /* PBXTextBookmark */ = C14723C31230062600679272 /* PBXTextBookmark */;
+			C14723C41230062600679272 /* PBXTextBookmark */ = C14723C41230062600679272 /* PBXTextBookmark */;
+			C14723C51230062600679272 /* PBXTextBookmark */ = C14723C51230062600679272 /* PBXTextBookmark */;
+			C14723C61230062600679272 /* PBXTextBookmark */ = C14723C61230062600679272 /* PBXTextBookmark */;
+			C14723C71230062600679272 /* PBXTextBookmark */ = C14723C71230062600679272 /* PBXTextBookmark */;
+			C14723C81230062600679272 /* PBXTextBookmark */ = C14723C81230062600679272 /* PBXTextBookmark */;
+			C14723C91230062600679272 /* PBXTextBookmark */ = C14723C91230062600679272 /* PBXTextBookmark */;
+			C14723CA1230062600679272 /* PBXTextBookmark */ = C14723CA1230062600679272 /* PBXTextBookmark */;
+			C14723CB1230062600679272 /* PBXTextBookmark */ = C14723CB1230062600679272 /* PBXTextBookmark */;
+			C14723CF1230066900679272 /* PBXTextBookmark */ = C14723CF1230066900679272 /* PBXTextBookmark */;
 			C18F78AD122E9D3B00CC3495 = C18F78AD122E9D3B00CC3495 /* PBXTextBookmark */;
 			C18F78B0122E9D3B00CC3495 = C18F78B0122E9D3B00CC3495 /* PBXTextBookmark */;
 			C18F78B2122E9D3B00CC3495 = C18F78B2122E9D3B00CC3495 /* PBXTextBookmark */;
@@ -513,7 +602,7 @@
 	};
 	C124E229122E2F4900836B1A /* GKPostKitGlobals.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1363, 711}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 688}}";
 			sepNavSelRange = "{368, 0}";
 			sepNavVisRange = "{0, 369}";
 			sepNavWindowFrame = "{{1306, 39}, {1160, 1002}}";
@@ -521,18 +610,18 @@
 	};
 	C124E242122E304E00836B1A /* GKPoster.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1400, 936}}";
-			sepNavSelRange = "{1618, 13}";
-			sepNavVisRange = "{798, 525}";
-			sepNavWindowFrame = "{{199, 243}, {1160, 1002}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 936}}";
+			sepNavSelRange = "{1676, 0}";
+			sepNavVisRange = "{3, 2110}";
+			sepNavWindowFrame = "{{321, 135}, {1160, 1002}}";
 		};
 	};
 	C124E243122E304E00836B1A /* GKPoster.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1101, 4342}}";
-			sepNavSelRange = "{9240, 0}";
-			sepNavVisRange = "{6846, 2216}";
-			sepNavWindowFrame = "{{321, 135}, {1160, 1002}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 4420}}";
+			sepNavSelRange = "{2902, 20}";
+			sepNavVisRange = "{1458, 1643}";
+			sepNavWindowFrame = "{{255, 203}, {1160, 1002}}";
 		};
 	};
 	C124E24B122E30F800836B1A /* GKPostItem.h */ = {
@@ -552,17 +641,17 @@
 	};
 	C124E255122E352900836B1A /* GKAuthDialog.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1363, 871}}";
-			sepNavSelRange = "{1162, 0}";
-			sepNavVisRange = "{0, 1834}";
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 851}}";
+			sepNavSelRange = "{1617, 0}";
+			sepNavVisRange = "{0, 2076}";
 			sepNavWindowFrame = "{{809, 174}, {1160, 1002}}";
 		};
 	};
 	C124E256122E352900836B1A /* GKAuthDialog.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1363, 2249}}";
-			sepNavSelRange = "{1162, 0}";
-			sepNavVisRange = "{0, 1947}";
+			sepNavIntBoundsRect = "{{0, 0}, {1153, 2522}}";
+			sepNavSelRange = "{5557, 0}";
+			sepNavVisRange = "{0, 2123}";
 			sepNavWindowFrame = "{{135, 202}, {1160, 1002}}";
 		};
 	};
@@ -607,7 +696,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 23";
 		rLen = 0;
-		rLoc = 1946;
+		rLoc = 2120;
 		rType = 0;
 		vrLen = 1207;
 		vrLoc = 0;
@@ -654,7 +743,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 27";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1444;
 		vrLoc = 128;
@@ -671,16 +760,16 @@
 	};
 	C124E33F122E45C600836B1A /* GKFacebookAuthDialog.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1363, 692}}";
-			sepNavSelRange = "{1170, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 851}}";
+			sepNavSelRange = "{1520, 19}";
 			sepNavVisRange = "{0, 1549}";
 		};
 	};
 	C124E340122E45C600836B1A /* GKFacebookAuthDialog.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1363, 1937}}";
-			sepNavSelRange = "{1170, 0}";
-			sepNavVisRange = "{0, 2057}";
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 1898}}";
+			sepNavSelRange = "{3694, 0}";
+			sepNavVisRange = "{2438, 2178}";
 			sepNavWindowFrame = "{{812, 36}, {1160, 1002}}";
 		};
 	};
@@ -719,7 +808,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 67";
 		rLen = 0;
-		rLoc = 4591;
+		rLoc = 4789;
 		rType = 0;
 		vrLen = 1755;
 		vrLoc = 657;
@@ -796,7 +885,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 50";
 		rLen = 0;
-		rLoc = 2506;
+		rLoc = 2576;
 		rType = 0;
 		vrLen = 1294;
 		vrLoc = 725;
@@ -840,7 +929,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 26";
 		rLen = 0;
-		rLoc = 1767;
+		rLoc = 1837;
 		rType = 0;
 		vrLen = 1856;
 		vrLoc = 3;
@@ -880,7 +969,7 @@
 		fRef = C124E255122E352900836B1A /* GKAuthDialog.h */;
 		name = "GKAuthDialog.h: 35";
 		rLen = 0;
-		rLoc = 1832;
+		rLoc = 1852;
 		rType = 0;
 		vrLen = 976;
 		vrLoc = 0;
@@ -934,7 +1023,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 58";
 		rLen = 0;
-		rLoc = 2613;
+		rLoc = 2683;
 		rType = 0;
 		vrLen = 1550;
 		vrLoc = 404;
@@ -953,7 +1042,7 @@
 		ignoreCount = 0;
 		lineNumber = 127;
 		location = PostKit;
-		modificationTime = 305135714.073558;
+		modificationTime = 305137191.608956;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
@@ -962,7 +1051,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 81";
 		rLen = 0;
-		rLoc = 3199;
+		rLoc = 3269;
 		rType = 0;
 		vrLen = 1244;
 		vrLoc = 843;
@@ -1002,7 +1091,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 99";
 		rLen = 0;
-		rLoc = 4234;
+		rLoc = 4312;
 		rType = 0;
 		vrLen = 1828;
 		vrLoc = 1168;
@@ -1012,7 +1101,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 128";
 		rLen = 0;
-		rLoc = 6078;
+		rLoc = 6156;
 		rType = 0;
 		vrLen = 1876;
 		vrLoc = 2739;
@@ -1136,7 +1225,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 128";
 		rLen = 0;
-		rLoc = 6078;
+		rLoc = 6156;
 		rType = 0;
 		vrLen = 1876;
 		vrLoc = 2739;
@@ -1236,7 +1325,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 128";
 		rLen = 0;
-		rLoc = 6078;
+		rLoc = 6156;
 		rType = 0;
 		vrLen = 1876;
 		vrLoc = 2739;
@@ -1296,7 +1385,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 128";
 		rLen = 0;
-		rLoc = 6078;
+		rLoc = 6156;
 		rType = 0;
 		vrLen = 1876;
 		vrLoc = 2739;
@@ -1326,7 +1415,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 128";
 		rLen = 0;
-		rLoc = 6078;
+		rLoc = 6156;
 		rType = 0;
 		vrLen = 1876;
 		vrLoc = 2739;
@@ -1356,7 +1445,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 128";
 		rLen = 0;
-		rLoc = 6078;
+		rLoc = 6156;
 		rType = 0;
 		vrLen = 1919;
 		vrLoc = 2739;
@@ -1407,7 +1496,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 99";
 		rLen = 0;
-		rLoc = 4234;
+		rLoc = 4312;
 		rType = 0;
 		vrLen = 1614;
 		vrLoc = 4660;
@@ -1457,7 +1546,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 99";
 		rLen = 0;
-		rLoc = 4234;
+		rLoc = 4312;
 		rType = 0;
 		vrLen = 1614;
 		vrLoc = 4660;
@@ -1467,7 +1556,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 143";
 		rLen = 0;
-		rLoc = 6618;
+		rLoc = 6696;
 		rType = 0;
 		vrLen = 1914;
 		vrLoc = 1248;
@@ -1547,7 +1636,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 1939;
 		vrLoc = 4878;
@@ -1617,7 +1706,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 1974;
 		vrLoc = 4878;
@@ -1667,7 +1756,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 1939;
 		vrLoc = 4878;
@@ -1727,7 +1816,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -1797,7 +1886,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2385;
 		vrLoc = 2144;
@@ -1837,7 +1926,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -1924,7 +2013,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -1991,7 +2080,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2051,7 +2140,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2121,7 +2210,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2181,7 +2270,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2251,7 +2340,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2311,7 +2400,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2375,7 +2464,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2371;
 		vrLoc = 2144;
@@ -2405,7 +2494,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 67";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 153;
@@ -2415,7 +2504,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2238;
 		vrLoc = 2294;
@@ -2425,7 +2514,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 216";
 		rLen = 0;
-		rLoc = 7825;
+		rLoc = 7903;
 		rType = 0;
 		vrLen = 2237;
 		vrLoc = 2294;
@@ -2475,7 +2564,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 67";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 153;
@@ -2522,7 +2611,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 115";
 		rLen = 0;
-		rLoc = 4393;
+		rLoc = 4471;
 		rType = 0;
 		vrLen = 2352;
 		vrLoc = 2142;
@@ -2562,7 +2651,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 67";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 153;
@@ -2640,7 +2729,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 67";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 153;
@@ -2690,7 +2779,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 67";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1424;
 		vrLoc = 153;
@@ -2730,7 +2819,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 66";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1457;
 		vrLoc = 153;
@@ -2750,7 +2839,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 48";
 		rLen = 0;
-		rLoc = 2243;
+		rLoc = 2255;
 		rType = 0;
 		vrLen = 1720;
 		vrLoc = 30;
@@ -2790,7 +2879,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 87";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 153;
@@ -2800,7 +2889,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 97";
 		rLen = 0;
-		rLoc = 3612;
+		rLoc = 3690;
 		rType = 0;
 		vrLen = 1672;
 		vrLoc = 1403;
@@ -2830,7 +2919,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 153;
@@ -2840,7 +2929,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 72";
 		rLen = 0;
-		rLoc = 2765;
+		rLoc = 2810;
 		rType = 0;
 		vrLen = 1641;
 		vrLoc = 693;
@@ -2870,7 +2959,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 153;
@@ -2910,7 +2999,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1352;
 		vrLoc = 153;
@@ -2940,7 +3029,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 105";
 		rLen = 0;
-		rLoc = 3479;
+		rLoc = 3557;
 		rType = 0;
 		vrLen = 1640;
 		vrLoc = 1726;
@@ -2970,7 +3059,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -2980,7 +3069,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 48";
 		rLen = 0;
-		rLoc = 2238;
+		rLoc = 2465;
 		rType = 0;
 		vrLen = 2318;
 		vrLoc = 454;
@@ -2990,7 +3079,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 48";
 		rLen = 0;
-		rLoc = 2238;
+		rLoc = 2465;
 		rType = 0;
 		vrLen = 2200;
 		vrLoc = 575;
@@ -3010,7 +3099,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 199";
 		rLen = 0;
-		rLoc = 6558;
+		rLoc = 6636;
 		rType = 0;
 		vrLen = 2042;
 		vrLoc = 4630;
@@ -3020,7 +3109,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3050,7 +3139,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3060,7 +3149,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 46";
 		rLen = 0;
-		rLoc = 2206;
+		rLoc = 2399;
 		rType = 0;
 		vrLen = 2201;
 		vrLoc = 575;
@@ -3070,7 +3159,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3100,7 +3189,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3110,7 +3199,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 46";
 		rLen = 0;
-		rLoc = 2207;
+		rLoc = 2400;
 		rType = 0;
 		vrLen = 2201;
 		vrLoc = 575;
@@ -3120,7 +3209,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3150,7 +3239,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3160,7 +3249,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 46";
 		rLen = 0;
-		rLoc = 2207;
+		rLoc = 2400;
 		rType = 0;
 		vrLen = 2201;
 		vrLoc = 575;
@@ -3170,7 +3259,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3200,7 +3289,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3210,7 +3299,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 53";
 		rLen = 0;
-		rLoc = 2636;
+		rLoc = 2833;
 		rType = 0;
 		vrLen = 2196;
 		vrLoc = 575;
@@ -3220,7 +3309,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3250,7 +3339,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3260,7 +3349,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 117";
 		rLen = 0;
-		rLoc = 4594;
+		rLoc = 4792;
 		rType = 0;
 		vrLen = 1894;
 		vrLoc = 2435;
@@ -3270,7 +3359,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3300,7 +3389,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3310,7 +3399,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 70";
 		rLen = 0;
-		rLoc = 3283;
+		rLoc = 3481;
 		rType = 0;
 		vrLen = 2244;
 		vrLoc = 818;
@@ -3320,7 +3409,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3350,7 +3439,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1338;
 		vrLoc = 0;
@@ -3360,7 +3449,7 @@
 		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
 		name = "GKAuthDialog.m: 142";
 		rLen = 0;
-		rLoc = 5333;
+		rLoc = 5557;
 		rType = 0;
 		vrLen = 1987;
 		vrLoc = 2610;
@@ -3370,7 +3459,7 @@
 		fRef = C124E255122E352900836B1A /* GKAuthDialog.h */;
 		name = "GKAuthDialog.h: 32";
 		rLen = 0;
-		rLoc = 1689;
+		rLoc = 1709;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 0;
@@ -3380,7 +3469,7 @@
 		fRef = C124E255122E352900836B1A /* GKAuthDialog.h */;
 		name = "GKAuthDialog.h: 32";
 		rLen = 0;
-		rLoc = 1689;
+		rLoc = 1709;
 		rType = 0;
 		vrLen = 1050;
 		vrLoc = 0;
@@ -3390,7 +3479,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3428,7 +3517,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 95";
 		rLen = 0;
-		rLoc = 3344;
+		rLoc = 3422;
 		rType = 0;
 		vrLen = 1400;
 		vrLoc = 402;
@@ -3468,7 +3557,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3518,7 +3607,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 292";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 1610;
 		vrLoc = 7034;
@@ -3665,7 +3754,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 81";
 		rLen = 0;
-		rLoc = 3199;
+		rLoc = 3269;
 		rType = 0;
 		vrLen = 1242;
 		vrLoc = 827;
@@ -3675,7 +3764,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 41";
 		rLen = 0;
-		rLoc = 1719;
+		rLoc = 1789;
 		rType = 0;
 		vrLen = 2221;
 		vrLoc = 0;
@@ -3685,7 +3774,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 308";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 2196;
 		vrLoc = 6846;
@@ -3715,7 +3804,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 42";
 		rLen = 0;
-		rLoc = 1794;
+		rLoc = 1864;
 		rType = 0;
 		vrLen = 2234;
 		vrLoc = 0;
@@ -3725,7 +3814,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 308";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 2196;
 		vrLoc = 6846;
@@ -3885,7 +3974,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 308";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 2196;
 		vrLoc = 6846;
@@ -3995,7 +4084,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 308";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 2196;
 		vrLoc = 6846;
@@ -4035,7 +4124,7 @@
 		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
 		name = "GKPoster.m: 308";
 		rLen = 0;
-		rLoc = 9240;
+		rLoc = 9437;
 		rType = 0;
 		vrLen = 2216;
 		vrLoc = 6846;
@@ -4060,12 +4149,893 @@
 		vrLen = 2141;
 		vrLoc = 225;
 	};
+	C147233B123003E100679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C147233C123003E100679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 70";
+		rLen = 13;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 2114;
+		vrLoc = 0;
+	};
+	C147233D123003E100679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 270";
+		rLen = 0;
+		rLoc = 8238;
+		rType = 0;
+		vrLen = 2184;
+		vrLoc = 6846;
+	};
+	C147233E123003E100679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1680;
+		vrLoc = 1751;
+	};
+	C147233F123003E100679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 35";
+		rLen = 0;
+		rLoc = 1574;
+		rType = 0;
+		vrLen = 2482;
+		vrLoc = 82;
+	};
+	C1472340123003E100679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2141;
+		vrLoc = 225;
+	};
+	C14723431230040F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C14723441230040F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 35";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 2549;
+		vrLoc = 82;
+	};
+	C14723451230040F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 1751;
+	};
+	C14723461230040F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C14723521230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C14723551230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 65;
+		rLoc = 1806;
+		rType = 0;
+		vrLen = 2111;
+		vrLoc = 3;
+	};
+	C14723561230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 1785;
+	};
+	C14723571230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 1785;
+	};
+	C14723581230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 35";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 2549;
+		vrLoc = 82;
+	};
+	C14723591230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 1751;
+	};
+	C147235A1230042700679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C147235E1230042E00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C147235F1230042E00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 1785;
+	};
+	C14723601230042E00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 1785;
+	};
+	C14723611230042E00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 35";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 2549;
+		vrLoc = 82;
+	};
+	C14723621230042E00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1679;
+		vrLoc = 1751;
+	};
+	C14723631230042E00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C14723641230044F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C14723651230044F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 1785;
+	};
+	C14723661230044F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 91";
+		rLen = 0;
+		rLoc = 2813;
+		rType = 0;
+		vrLen = 1677;
+		vrLoc = 1751;
+	};
+	C14723671230044F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 70";
+		rLen = 13;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 3;
+	};
+	C14723681230044F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 35";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 2551;
+		vrLoc = 82;
+	};
+	C14723691230044F00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2141;
+		vrLoc = 225;
+	};
+	C147236E1230046B00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C147236F1230046B00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1672;
+		vrLoc = 1785;
+	};
+	C14723701230046B00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 96";
+		rLen = 0;
+		rLoc = 3000;
+		rType = 0;
+		vrLen = 1645;
+		vrLoc = 1785;
+	};
+	C14723711230046B00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 44";
+		rLen = 0;
+		rLoc = 1968;
+		rType = 0;
+		vrLen = 2549;
+		vrLoc = 82;
+	};
+	C14723721230046B00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 70";
+		rLen = 13;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C14723731230046B00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C1472379123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C147237A123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		rLen = 1;
+		rLoc = 68;
+		rType = 1;
+	};
+	C147237B123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 68";
+		rLen = 0;
+		rLoc = 2209;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 1371;
+	};
+	C147237C123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		rLen = 1;
+		rLoc = 53;
+		rType = 1;
+	};
+	C147237D123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C147237E123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 35";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 2549;
+		vrLoc = 82;
+	};
+	C147237F123004AA00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C1472383123004CF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C1472384123004CF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 39";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 82;
+	};
+	C1472385123004CF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 68";
+		rLen = 0;
+		rLoc = 2209;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 1489;
+	};
+	C1472386123004CF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C1472387123004CF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C147238B123004DB00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C147238C123004DB00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 68";
+		rLen = 0;
+		rLoc = 2209;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 1489;
+	};
+	C147238D123004DB00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 68";
+		rLen = 0;
+		rLoc = 2209;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 1458;
+	};
+	C147238E123004DB00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 39";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 82;
+	};
+	C147238F123004DB00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C1472390123004DB00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C1472393123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C1472394123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 95";
+		rLen = 20;
+		rLoc = 2902;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 1458;
+	};
+	C1472397123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 36";
+		rLen = 29;
+		rLoc = 1452;
+		rType = 0;
+		vrLen = 2683;
+		vrLoc = 157;
+	};
+	C1472398123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 36";
+		rLen = 29;
+		rLoc = 1452;
+		rType = 0;
+		vrLen = 2683;
+		vrLoc = 157;
+	};
+	C147239B123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E340122E45C600836B1A /* GKFacebookAuthDialog.m */;
+		name = "GKFacebookAuthDialog.m: 42";
+		rLen = 4;
+		rLoc = 1771;
+		rType = 0;
+		vrLen = 1970;
+		vrLoc = 1228;
+	};
+	C147239C123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E33F122E45C600836B1A /* GKFacebookAuthDialog.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	C147239D123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E33F122E45C600836B1A /* GKFacebookAuthDialog.h */;
+		name = "GKFacebookAuthDialog.h: 35";
+		rLen = 12;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	C147239E123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 39";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 82;
+	};
+	C147239F123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C14723A0123004FF00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C14723A31230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C14723A41230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 95";
+		rLen = 20;
+		rLoc = 2902;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 1458;
+	};
+	C14723A51230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 36";
+		rLen = 29;
+		rLoc = 1452;
+		rType = 0;
+		vrLen = 2683;
+		vrLoc = 157;
+	};
+	C14723A61230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E33F122E45C600836B1A /* GKFacebookAuthDialog.h */;
+		name = "GKFacebookAuthDialog.h: 35";
+		rLen = 12;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	C14723A71230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 39";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 82;
+	};
+	C14723A81230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C14723A91230050800679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C14723B11230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C14723B21230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E255122E352900836B1A /* GKAuthDialog.h */;
+		name = "GKAuthDialog.h: 43";
+		rLen = 0;
+		rLoc = 1656;
+		rType = 0;
+		vrLen = 2054;
+		vrLoc = 0;
+	};
+	C14723B31230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 49";
+		rLen = 0;
+		rLoc = 1887;
+		rType = 0;
+		vrLen = 2518;
+		vrLoc = 157;
+	};
+	C14723B41230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 164";
+		rLen = 0;
+		rLoc = 5528;
+		rType = 0;
+		vrLen = 1959;
+		vrLoc = 3833;
+	};
+	C14723B51230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 39";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 82;
+	};
+	C14723B61230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 95";
+		rLen = 20;
+		rLoc = 2902;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 1458;
+	};
+	C14723B71230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E33F122E45C600836B1A /* GKFacebookAuthDialog.h */;
+		name = "GKFacebookAuthDialog.h: 35";
+		rLen = 12;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	C14723B81230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C14723B91230057D00679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C14723C31230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	C14723C41230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E255122E352900836B1A /* GKAuthDialog.h */;
+		name = "GKAuthDialog.h: 42";
+		rLen = 0;
+		rLoc = 1617;
+		rType = 0;
+		vrLen = 2076;
+		vrLoc = 0;
+	};
+	C14723C51230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 49";
+		rLen = 0;
+		rLoc = 1832;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 1329;
+	};
+	C14723C61230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E256122E352900836B1A /* GKAuthDialog.m */;
+		name = "GKAuthDialog.m: 175";
+		rLen = 0;
+		rLoc = 5557;
+		rType = 0;
+		vrLen = 1943;
+		vrLoc = 4042;
+	};
+	C14723C71230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
+		name = "PostKitViewController.m: 39";
+		rLen = 0;
+		rLoc = 1608;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 82;
+	};
+	C14723C81230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E243122E304E00836B1A /* GKPoster.m */;
+		name = "GKPoster.m: 95";
+		rLen = 20;
+		rLoc = 2902;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 1458;
+	};
+	C14723C91230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E33F122E45C600836B1A /* GKFacebookAuthDialog.h */;
+		name = "GKFacebookAuthDialog.h: 35";
+		rLen = 12;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 0;
+	};
+	C14723CA1230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E242122E304E00836B1A /* GKPoster.h */;
+		name = "GKPoster.h: 54";
+		rLen = 19;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 2110;
+		vrLoc = 3;
+	};
+	C14723CB1230062600679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C18F790F122EA6EE00CC3495 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 40";
+		rLen = 32;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 225;
+	};
+	C14723CF1230066900679272 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C124E229122E2F4900836B1A /* GKPostKitGlobals.h */;
+		name = "GKPostKitGlobals.h: 23";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
 	C18F78AD122E9D3B00CC3495 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 58";
 		rLen = 0;
-		rLoc = 2613;
+		rLoc = 2683;
 		rType = 0;
 		vrLen = 1379;
 		vrLoc = 640;
@@ -4109,7 +5079,7 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* PostKitViewController.m */;
 		name = "PostKitViewController.m: 26";
 		rLen = 0;
-		rLoc = 1767;
+		rLoc = 1837;
 		rType = 0;
 		vrLen = 1856;
 		vrLoc = 3;
@@ -4149,7 +5119,7 @@
 		fRef = C124E255122E352900836B1A /* GKAuthDialog.h */;
 		name = "GKAuthDialog.h: 35";
 		rLen = 0;
-		rLoc = 1832;
+		rLoc = 1852;
 		rType = 0;
 		vrLen = 976;
 		vrLoc = 0;
@@ -4202,7 +5172,8 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1101, 3328}}";
 			sepNavSelRange = "{1473, 32}";
-			sepNavVisRange = "{225, 2141}";
+			sepNavVisRange = "{225, 2138}";
+			sepNavWindowFrame = "{{107, 327}, {1160, 1002}}";
 		};
 	};
 	C18F7918122EA6EE00CC3495 /* OAToken.m */ = {
