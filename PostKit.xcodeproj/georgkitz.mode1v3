@@ -216,11 +216,11 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>C1472317123000D300679272</string>
+						<string>C14723351230020200679272</string>
 						<key>history</key>
 						<array>
 							<string>C1472279122FF7C100679272</string>
-							<string>C147227A122FF7C100679272</string>
+							<string>C1472317123000D300679272</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -257,10 +257,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>C1472318123000D300679272</string>
+						<string>C14723361230020200679272</string>
 						<key>history</key>
 						<array>
-							<string>C14721B4122FDED700679272</string>
+							<string>C1472318123000D300679272</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -297,10 +297,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>C1472319123000D300679272</string>
+						<string>C14723371230020200679272</string>
 						<key>history</key>
 						<array>
-							<string>C1472161122FDAD500679272</string>
+							<string>C1472319123000D300679272</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -449,7 +449,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>C1472316123000D300679272</string>
+										<string>C14723321230020200679272</string>
 										<key>history</key>
 										<array>
 											<string>C14721C4122FDF4800679272</string>
@@ -475,7 +475,7 @@
 											<string>C1472312123000D300679272</string>
 											<string>C1472313123000D300679272</string>
 											<string>C1472314123000D300679272</string>
-											<string>C1472315123000D300679272</string>
+											<string>C1472316123000D300679272</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -487,14 +487,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1424, 747}}</string>
+								<string>{{0, 0}, {1424, 743}}</string>
 								<key>RubberWindowFrame</key>
 								<string>468 253 1632 982 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>747pt</string>
+							<string>743pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -507,14 +507,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 752}, {1424, 189}}</string>
+								<string>{{0, 748}, {1424, 193}}</string>
 								<key>RubberWindowFrame</key>
 								<string>468 253 1632 982 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>189pt</string>
+							<string>193pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -533,9 +533,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C1471F93122F969E00679272</string>
+				<string>C14723331230020200679272</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>C1471F94122F969E00679272</string>
+				<string>C14723341230020200679272</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -673,16 +673,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>C147230D1230006100679272</string>
-		<string>C1471FF9122F9BBE00679272</string>
-		<string>C1471FFA122F9BBE00679272</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>C124E1F1122E2DF100836B1A</string>
 		<string>C147215F122FDAD500679272</string>
 		<string>C14721B8122FDF0A00679272</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>C1471FDA122F9BBE00679272</string>
-		<string>/Users/georgkitz/Documents/Arbeit/iphone/PostKit/PostKit.xcodeproj</string>
+		<string>/Users/georgkitz/Documents/Arbeit/iphone/GKPostKit/PostKit.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>468 253 1632 982 0 0 2560 1418 </string>
@@ -706,7 +701,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GKTwitterItem.h</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -723,8 +718,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -764,7 +757,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>C124E1F1122E2DF100836B1A</string>
-				<string>C1471F95122F969E00679272</string>
+				<string>C14723381230020200679272</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -777,7 +770,7 @@
 			<key>WindowToolGUID</key>
 			<string>C124E1F1122E2DF100836B1A</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
